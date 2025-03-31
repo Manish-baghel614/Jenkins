@@ -2,36 +2,36 @@
 <testng-results ignored="17" total="24" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-31T18:33:50 IST" name="Suite" finished-at="2025-03-31T18:34:18 IST" duration-ms="27234">
+  <suite started-at="2025-03-31T18:54:28 IST" name="Suite" finished-at="2025-03-31T18:54:57 IST" duration-ms="28957">
     <groups>
     </groups>
-    <test started-at="2025-03-31T18:33:50 IST" name="Test" finished-at="2025-03-31T18:34:18 IST" duration-ms="27234">
+    <test started-at="2025-03-31T18:54:28 IST" name="Test" finished-at="2025-03-31T18:54:57 IST" duration-ms="28957">
       <class name="HomePage_TestScripts.Home_TestCases">
-        <test-method signature="Verify_feature_Button1()[pri:0, instance:HomePage_TestScripts.Home_TestCases@32a68f4f]" started-at="2025-03-31T18:33:50 IST" name="Verify_feature_Button1" finished-at="2025-03-31T18:33:59 IST" duration-ms="8759" status="PASS">
+        <test-method signature="Verify_feature_Button1()[pri:0, instance:HomePage_TestScripts.Home_TestCases@3918c187]" started-at="2025-03-31T18:54:28 IST" name="Verify_feature_Button1" finished-at="2025-03-31T18:54:37 IST" duration-ms="8884" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_feature_Button1 -->
-        <test-method signature="Verify_feature_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@32a68f4f]" started-at="2025-03-31T18:33:59 IST" name="Verify_feature_Button" finished-at="2025-03-31T18:34:04 IST" duration-ms="4387" status="PASS">
+        <test-method signature="Verify_feature_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@3918c187]" started-at="2025-03-31T18:54:37 IST" name="Verify_feature_Button" finished-at="2025-03-31T18:54:42 IST" duration-ms="4222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_feature_Button -->
-        <test-method signature="Verify_Plans_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@32a68f4f]" started-at="2025-03-31T18:34:04 IST" name="Verify_Plans_Button" finished-at="2025-03-31T18:34:06 IST" duration-ms="1960" status="PASS">
+        <test-method signature="Verify_Plans_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@3918c187]" started-at="2025-03-31T18:54:42 IST" name="Verify_Plans_Button" finished-at="2025-03-31T18:54:45 IST" duration-ms="3383" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Plans_Button -->
-        <test-method signature="Verify_Blogs_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@32a68f4f]" started-at="2025-03-31T18:34:06 IST" name="Verify_Blogs_Button" finished-at="2025-03-31T18:34:08 IST" duration-ms="2009" status="PASS">
+        <test-method signature="Verify_Blogs_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@3918c187]" started-at="2025-03-31T18:54:45 IST" name="Verify_Blogs_Button" finished-at="2025-03-31T18:54:47 IST" duration-ms="1872" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Blogs_Button -->
-        <test-method signature="Verify_Join_Game_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@32a68f4f]" started-at="2025-03-31T18:34:08 IST" name="Verify_Join_Game_Button" finished-at="2025-03-31T18:34:11 IST" duration-ms="3397" status="PASS">
+        <test-method signature="Verify_Join_Game_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@3918c187]" started-at="2025-03-31T18:54:47 IST" name="Verify_Join_Game_Button" finished-at="2025-03-31T18:54:50 IST" duration-ms="3598" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Join_Game_Button -->
-        <test-method signature="Verify_Math_Game_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@32a68f4f]" started-at="2025-03-31T18:34:11 IST" name="Verify_Math_Game_Button" finished-at="2025-03-31T18:34:14 IST" duration-ms="3228" status="PASS">
+        <test-method signature="Verify_Math_Game_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@3918c187]" started-at="2025-03-31T18:54:50 IST" name="Verify_Math_Game_Button" finished-at="2025-03-31T18:54:54 IST" duration-ms="3350" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Math_Game_Button -->
-        <test-method signature="Verify_Science_Game_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@32a68f4f]" started-at="2025-03-31T18:34:14 IST" name="Verify_Science_Game_Button" finished-at="2025-03-31T18:34:18 IST" duration-ms="3388" status="PASS">
+        <test-method signature="Verify_Science_Game_Button()[pri:0, instance:HomePage_TestScripts.Home_TestCases@3918c187]" started-at="2025-03-31T18:54:54 IST" name="Verify_Science_Game_Button" finished-at="2025-03-31T18:54:57 IST" duration-ms="3357" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Science_Game_Button -->
